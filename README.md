@@ -2,8 +2,6 @@
 
 ### Python developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madalbekovich&label=Profile views&color=0e75b6&style=flat" alt="madalbekovich" /> </p>
-
 - 💬 Ask me about **Python, Backend **
 
 - 📫 How to reach me **https://t.me/vedeikikb**
